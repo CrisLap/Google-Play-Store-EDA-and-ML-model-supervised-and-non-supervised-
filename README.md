@@ -7,3 +7,6 @@ Make sure, however, that you first explore the data thoroughly and show your rea
 With the dataset, you will have to import the data into Python and create a notebook with your analysis.
 There are no strict instructions, but make sure you do a good exploration of the dataset and the correlation between the variables. 
 Try to formulate hypotheses and test them, keeping in mind the goal of helping key stakeholders to fully understand the industry in which they operate and to formulate appropriate strategies.
+
+Notes: <br>
+I suggest to see this notebook on nbviewer at this link: https://nbviewer.org/github/CrisLap/Google-Play-Store-EDA-and-ML-model-supervised-and-non-supervised-/blob/main/EDA%20clustering%20and%20rating%20prediction%20about%20Google%20Play%20Store.ipynb
